@@ -1,6 +1,5 @@
 {
   "name": "@kandabi/triangles",
-  "private": false,
   "author": "Aviv Kandabi",
   "version": "0.0.1",
   "main": "./dist/triangles.cjs",
