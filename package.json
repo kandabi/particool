@@ -1,13 +1,14 @@
 {
-  "name": "particool",
-  "private": true,
-  "version": "0.0.2",
-  "main": "./dist/particool.cjs",
-  "module": "./dist/particool.mjs",
+  "name": "triangles",
+  "private": false,
+  "author": "Aviv Kandabi",
+  "version": "0.0.1",
+  "main": "./dist/triangles.cjs",
+  "module": "./dist/triangles.mjs",
   "exports": {
     ".": {
-      "require": "./dist/particool.cjs",
-      "import": "./dist/particool.mjs"
+      "require": "./dist/triangles.cjs",
+      "import": "./dist/triangles.mjs"
     }
   },
   "scripts": {
