@@ -1,13 +1,13 @@
 {
-  "name": "@kandabi-triangles",
+  "name": "kandabi-triangles",
   "author": "Aviv Kandabi",
   "version": "0.0.1",
-  "main": "./dist/triangles.cjs",
-  "module": "./dist/triangles.mjs",
+  "main": "./dist/kandabi-triangles.cjs",
+  "module": "./dist/kandabi-triangles.mjs",
   "exports": {
     ".": {
-      "require": "./dist/triangles.cjs",
-      "import": "./dist/triangles.mjs"
+      "require": "./dist/kandabi-triangles.cjs",
+      "import": "./dist/kandabi-triangles.mjs"
     }
   },
   "scripts": {

@@ -27,7 +27,7 @@ export default defineConfig({
   base: "./",
   build: {
     lib: {
-      entry: path.resolve(__dirname, "lib/triangles.ts"),
+      entry: path.resolve(__dirname, "lib/kandabi-triangles.ts"),
       name: getPackageNameCamelCase(),
       formats,
       fileName: (format) => fileName[format],

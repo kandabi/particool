@@ -8,7 +8,7 @@ const getPackageName = () => {
 const config = {
   entries: [
     {
-      filePath: "./lib/triangles.ts",
+      filePath: "./lib/kandabi-triangles.ts",
       outFile: `./dist/${getPackageName()}.d.ts`,
       noCheck: false,
     },

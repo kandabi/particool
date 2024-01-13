@@ -1,3 +1,3 @@
-import { init } from "../lib/triangles";
+import { init } from "../lib/kandabi-triangles";
 
 init();
